@@ -1,0 +1,44 @@
+body{
+    position:relative;
+    justify-items: center;
+}
+
+.tossbtn{
+    font-size: 15px;
+    height:50px;
+    width:85px;
+    background-color : #32C1CD;
+    text-align:center;
+    justify-content:center;
+    position:50%;
+    margin: 0 auto 0 auto;
+    border-radius: 10px;
+}
+
+table{
+    width:100%;
+    border: 1px solid ;
+    margin-bottom: 20px;
+}
+#hd{
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;
+}
+table, th, td {
+    text-align: center;
+    border: 3px solid rgb(0, 251, 255);
+    border-collapse: collapse;
+    height: 50px;
+  }
+.playbtn{
+    font-size: 15px;
+    height:50px;
+    width:85px;
+    background-color : #32C1CD;
+    text-align:center;
+    justify-content:center;
+    position:50%;
+    margin: 0 auto 0 auto;
+    border-radius: 10px;
+}
